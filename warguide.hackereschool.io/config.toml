@@ -1,0 +1,4 @@
+baseURL = 'http://warguide.hackerschool.io/'
+languageCode = 'en-us'
+title = 'WAR Guide'
+theme="anubis"
