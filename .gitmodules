@@ -1,3 +1,7 @@
 [submodule "warguide.hackereschool.io/themes/anubis"]
 	path = warguide.hackereschool.io/themes/anubis
 	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "warguide.hackereschool.io/public"]
+	path = warguide.hackereschool.io/public
+	url = https://github.com/filipe-varela/warguide.hackerschool.io.git
+	branch = main
