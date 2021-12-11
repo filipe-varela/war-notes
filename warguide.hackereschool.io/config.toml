@@ -1,4 +1,11 @@
 baseURL = 'http://warguide.hackerschool.io/'
 languageCode = 'en-us'
-title = 'WAR Guide'
+title = 'Guia do Workshop de Android do Recrutamento'
 theme="anubis"
+
+[params]
+style="auto"
+
+    [[params.social]]
+        id = "github"
+        name = "filipe-varela"
