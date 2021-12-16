@@ -5,29 +5,29 @@ theme = "anubis"
 
 [menu]
 
-[[menu.main]]
-identifier = "about"
-name = "Sobre"
-url = "/general/sobre/"
-weight = 1
+# [[menu.main]]
+# identifier = "about"
+# name = "Sobre"
+# url = "/general/sobre/"
+# weight = 1
 
 [[menu.main]]
 identifier = "enunciado"
 name = "Enunciado"
 url = "/general/enunciado/"
-weight = 2
+weight = 1
 
-[[menu.main]]
-identifier = "archive"
-name = "Documentação"
-url = "/code/main"
-weight = 3
+# [[menu.main]]
+# identifier = "archive"
+# name = "Documentação"
+# url = "/code/main"
+# weight = 3
 
 [[menu.main]]
 identifier = "tasks"
 name = "Tarefas"
 url = "/tasks/main"
-weight = 4
+weight = 2
 
 [params]
 style = "auto"
