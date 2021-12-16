@@ -5,3 +5,9 @@
 	path = warguide.hackereschool.io/public
 	url = https://github.com/filipe-varela/warguide.hackerschool.io.git
 	branch = main
+[submodule "warguide.hackereschool.io/themes/themes/hugo-theme-shell"]
+	path = warguide.hackereschool.io/themes/themes/hugo-theme-shell
+	url = https://github.com/Yukuro/hugo-theme-shell.git
+[submodule "warguide.hackereschool.io/themes/hugo-theme-shell"]
+	path = warguide.hackereschool.io/themes/hugo-theme-shell
+	url = https://github.com/Yukuro/hugo-theme-shell.git

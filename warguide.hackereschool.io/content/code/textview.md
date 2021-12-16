@@ -1,6 +1,7 @@
 ---
 title: "Textview"
 date: 2021-12-11T20:12:18Z
+favorite: true
 ---
 
 # TextView

@@ -1,11 +1,37 @@
-baseURL = 'https://warguide.hackerschool.io/'
-languageCode = 'en-us'
+baseURL = 'https://filipe-varela.github.io/warguide.hackerschool.io/'
+languageCode = 'pt-pt'
 title = 'Guia do Workshop de Android do Recrutamento'
-theme="anubis"
+theme = "anubis"
+
+[menu]
+
+[[menu.main]]
+identifier = "about"
+name = "Sobre"
+url = "/general/sobre/"
+weight = 1
+
+[[menu.main]]
+identifier = "enunciado"
+name = "Enunciado"
+url = "/general/enunciado/"
+weight = 2
+
+[[menu.main]]
+identifier = "archive"
+name = "Documentação"
+url = "/code/main"
+weight = 3
+
+[[menu.main]]
+identifier = "tasks"
+name = "Tarefas"
+url = "/tasks/main"
+weight = 4
 
 [params]
-style="auto"
-
+style = "auto"
+paginationSinglePost = true
     [[params.social]]
         id = "github"
         name = "filipe-varela"
