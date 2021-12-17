@@ -5,7 +5,7 @@ date: 2021-12-11T21:59:25Z
 
 <!-- ![android_logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Android_logo_2019.png/479px-Android_logo_2019.png) -->
 
-Este é o enunciado do projeto de desenvolvimento Android da [HackerSchool](http://hackerschool.io).
+Este é o enunciado do projeto de [desenvolvimento Android](https://drive.google.com/drive/folders/1CCDfb7o79b6eR-xim18rZ4XgxLRkmvN8?usp=sharing) da [HackerSchool](http://hackerschool.io).
 Aqui podes encontrar toda a informação necessária para executar o projeto e qualquer informação que visa a auxiliar a tua execução do projeto.
 
 É de notar que, como sendo a primeira iteração deste workshop, estou aberto para modificações e ajustes futuros do mesmo a fim de adequar. 
