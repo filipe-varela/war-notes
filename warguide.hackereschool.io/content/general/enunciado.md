@@ -26,7 +26,7 @@ A entrega do mesmo é contado como a submissão de dois ficheiros: um ficheiro z
 
 A aplicação tem que estar a funcionar, obviamente, quando for entregue e qualquer dúvida que se tenha com a mesma, é depois contactado(a) para esclarecimento. (mas sem medos, não vão sair do recrutamento só porque receberam uma mensagem minha).
 
-> Posteriormente, será marcada uma reunião para verificar os projetos individualmente.
+> Data de entrega do projeto é a 6 de janeiro de 2022 e, nos dias 7, 8 e 9, será marcada uma reunião para verificar os projetos individualmente.
 
 ## Lista de conteúdos
 Tem-se as seguintes tarefas para o projeto:

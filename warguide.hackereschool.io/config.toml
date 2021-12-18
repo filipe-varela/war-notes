@@ -29,6 +29,12 @@ name = "Tarefas"
 url = "/tasks/main"
 weight = 2
 
+[[menu.main]]
+identifier = "workshop"
+name = "Workshop"
+url = "/workshop/intro"
+weight = 3
+
 [params]
 style = "auto"
 paginationSinglePost = true
