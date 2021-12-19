@@ -53,3 +53,5 @@ Cada tarefa tem um objetivo e dificuldade associada, podendo ter algumas sugest�
 - [Android For Developers](https://developer.android.com/)
 - [Material.io](https://material.io)
 - [Google Codelabs](https://codelabs.developers.google.com/?product=android) - Este até será melhor procurar na net `<tópico> codelab`, pode ser mais fácil
+- [Jetpack Compose](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC) - Uma playlist que pode ajudar a programar em Jetpack Compose (props para o Manuel Soares)
+- [Coding in Flow](https://www.youtube.com/c/CodinginFlow) - Um canal de youtube que me ajudou bastante no inicio e que acho bastante bom para explicar como se fazem muitas coisas em android

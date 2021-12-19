@@ -5,7 +5,7 @@ date: 2021-12-17T14:55:23Z
 
 Este é a versão escrita do workshop de AppDev feita no dia 16/12/2021. 
 Nesta página é possível verificar as diferentes partes do mesmo em formato escrito e com *snippets* de código.
-Entretanto, qualquer material pode ser visto [aqui](https://drive.google.com/drive/folders/1CCDfb7o79b6eR-xim18rZ4XgxLRkmvN8?usp=sharing), bem como não esquecer que têm até dia 6 de janeiro de 2022 para entregar!
+Entretanto, qualquer material pode ser visto [aqui](https://drive.google.com/drive/folders/1CCDfb7o79b6eR-xim18rZ4XgxLRkmvN8?usp=sharing), um repositório que criei com o exemplo final (esperado) do workshop [aqui](), bem como não esquecer que têm até dia 6 de janeiro de 2022 para entregar!
 
 ## Tópicos do workshop
 O workshop foi estruturado da seguinte forma:
@@ -25,12 +25,11 @@ O workshop foi estruturado da seguinte forma:
       6. [Exemplo prático](../exemplo_backend)
 2. Mentalidade de AppDev
    1. Conceitos vários
-      1. Activity vs Fragment
-      2. Intent
-      3. SharedPreferences
-      4. Resources
-      5. Box-Model
-      6. Utils
-      7. Exemplo prático final
-   2. Boas práticas
+      1. [Activity vs Fragment](../activity_fragment)
+      2. [Intent](../intent)
+      3. [SharedPreferences](../sharedprefs)
+      4. [Resources](../resources)
+      5. [Box-Model](../box_model)
+      6. [Utils](../utils)
+   2. [Boas práticas](../boas_praticas)
 3. [Enunciado](../../general/enunciado)
