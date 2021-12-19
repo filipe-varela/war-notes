@@ -17,12 +17,12 @@ O workshop foi estruturado da seguinte forma:
       3. [ID's](../id)
       4. [Exemplo prático](../exemplo_frotend)
    3. Backend
-      1. Java VS Kotlin
-      2. Python & Kotlin
-      3. Kotlin Trivia
-      4. Null Safety
-      5. Conexão de Backend com Frotend
-      6. Exemplo prático
+      1. [Java VS Kotlin](../java_kotlin)
+      2. [Python & Kotlin](../python_kotlin)
+      3. [Kotlin Trivia](../kotlin_trivia)
+      4. [Null Safety](../null_safety)
+      5. [Conexão de Backend com Frotend](../conexao_frotend_backend)
+      6. [Exemplo prático](../exemplo_backend)
 2. Mentalidade de AppDev
    1. Conceitos vários
       1. Activity vs Fragment
