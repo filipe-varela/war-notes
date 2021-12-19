@@ -86,6 +86,8 @@ Repete-se este processo para a pasta dos *resources* ou *res*, mais nomeadamente
 
 ![Fragmento Estrutura](../images/fragmento_estrutura.png)
 
+Tendo as cores aí demonstradas pelo projeto estar conectado ao Github, não está relacionado a problemas ou algo do género.
+
 Agora com as bases feitas, só se precisa de ir, na imagem anterior, a `Gradle Scripts -> build.gradle (Module: ...)` e acrescentar esta linha dentro das `dependencies`:
 
 ```gradle
@@ -127,7 +129,7 @@ supportFragmentManager.commit {
 ```
 
 Em principio, ter-se-á erros no `commit` e no `add`.
-Para resolver os mesmos, tem-se que dar import no primeiro - carregar `Alt+Enter` com o cursos em cima do `commit` - e no segundo tem-se que criar o fragmento internamente.
+Para resolver os mesmos, tem-se que dar import no primeiro - carregar `Alt+Enter` com o cursor em cima do `commit` - e no segundo tem-se que criar o fragmento internamente.
 Para tal e para se poder acrescentar algum elemento e interagir com o fragmento da mesma maneira que a atividade, tem-se no `Fragmento.kt` que converter o mesmo para:
 
 ```kotlin
@@ -162,4 +164,4 @@ Agora, o `add` da atividade que se estava a mexer anteriormente apresenta um err
 Com isto tudo, tem-se uma atividade e um fragmento acrescentados e se se correr a aplicação, tem-se que tudo corre perfeitamente.
 Agora, fica como desafio acrescentar outros elementos no `fragment_fragmento.xml` para se poder interagir com o fragmento como fora feito com a atividade.
 
-Exemplo: criar um botão e um objeto `<View/>` no layout a fim do botão criar cores aleatórias. Baseado neste [exemplo](). (colocar o exemplo no repositório).
+Exemplo: criar um botão e um objeto `<View/>` no layout a fim do botão criar cores aleatórias. Baseado neste [exemplo](https://github.com/filipe-varela/WARExemplo/tree/master/app/src/main). 

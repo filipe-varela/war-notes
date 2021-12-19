@@ -5,7 +5,7 @@ date: 2021-12-17T14:55:23Z
 
 Este é a versão escrita do workshop de AppDev feita no dia 16/12/2021. 
 Nesta página é possível verificar as diferentes partes do mesmo em formato escrito e com *snippets* de código.
-Entretanto, qualquer material pode ser visto [aqui](https://drive.google.com/drive/folders/1CCDfb7o79b6eR-xim18rZ4XgxLRkmvN8?usp=sharing), um repositório que criei com o exemplo final (esperado) do workshop [aqui](), bem como não esquecer que têm até dia 6 de janeiro de 2022 para entregar!
+Entretanto, qualquer material pode ser visto [aqui](https://drive.google.com/drive/folders/1CCDfb7o79b6eR-xim18rZ4XgxLRkmvN8?usp=sharing), um repositório que criei com o exemplo final (esperado) do workshop [aqui](https://github.com/filipe-varela/warexemplo), bem como não esquecer que têm até dia 6 de janeiro de 2022 para entregar!
 
 ## Tópicos do workshop
 O workshop foi estruturado da seguinte forma:

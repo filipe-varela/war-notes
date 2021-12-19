@@ -4,7 +4,7 @@ date: 2021-12-17T15:36:01Z
 ---
 
 Dentro da aplicação pode haver [elementos](https://developer.android.com/guide/topics/resources/providing-resources) que sejam constantes durante a sua utilização, tanto para dimensões, esquemas ou até textos que podem ser usados para serem internacionalizados posteriormente.
-Para isto, o Android permite armazenamento de *Resources* dentro do mesmo, localizando-se como a superpasta dos layouts `res`.
+Para isto, o Android permite armazenamento de *Resources* dentro do mesmo, localizando-se como a superpasta dos layouts, `res`.
 
 ![Resources Exemplo](../images/resources_exemplo.png)
 
